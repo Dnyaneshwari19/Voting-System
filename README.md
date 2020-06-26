@@ -7,6 +7,8 @@ Provide a centralized campaign platform for participating candidates.
 
 Generate automated voting results in real time.
 
+![badge](https://forthebadge.com/images/badges/made-with-java.svg)
+
 # Implementation Details
 1) The advanced E-voting technique makes use of main two phases:- the sign-up and login phase.
 ![login_page](https://github.com/Dnyaneshwari19/Voting-System/blob/master/Output/login.png)
@@ -26,3 +28,7 @@ Generate automated voting results in real time.
 6) This application will enable the students to cast their votes online and track the results in real time.
 ![result_page](https://github.com/Dnyaneshwari19/Voting-System/blob/master/Output/result_page.png)
 
+# Future Scope
+1. Security features in upcoming system.
+2. Data storage using cloud computing.
+3. Biometric validation.
