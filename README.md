@@ -32,3 +32,8 @@ Generate automated voting results in real time.
 1. Security features in upcoming system.
 2. Data storage using cloud computing.
 3. Biometric validation.
+
+## License
+![License:MIT](https://img.shields.io/badge/License-MIT-red.svg)
+
+This software is licensed under MIT
